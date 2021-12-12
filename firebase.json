@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "github-ci-training2",
+    "site": "github-ci-training",
     "public": "build",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
   }
